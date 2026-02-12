@@ -29,7 +29,6 @@
     "vite": "^5.2.0"
   },
   "dependencies": {
-    "motion": "^10.17.0",
-    "winston": "^3.19.0"
+    "motion": "^10.17.0"
   }
 }
